@@ -6,7 +6,7 @@
 
 ---
 
-## Homework List
+## Assignments List
 1. Sparse matrix transformation.
 2. Towers of Hanoi.
 3. Converting an infix expression to a postfix expression using the Shunting Yard algorithm.
