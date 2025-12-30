@@ -7,9 +7,9 @@
 ---
 
 ## Homework List
-1- Sparse matrix transformation.
-2- Towers of Hanoi.
-3- Converting an infix expression to a postfix expression using the Shunting Yard algorithm.
+1. Sparse matrix transformation.
+2. Towers of Hanoi.
+3. Converting an infix expression to a postfix expression using the Shunting Yard algorithm.
 4- Max, Min Heap Code.
 5- Double-linked list deletion, insertion, traversal code.
 6- Circular linked list deletion code, insertion, traversal.
