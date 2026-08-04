@@ -2,7 +2,6 @@
 
 - **Course:** Data Structures
 - **Student Name:** Eray Dilmen
-- **Student ID:** 2310213568
 
 ---
 
